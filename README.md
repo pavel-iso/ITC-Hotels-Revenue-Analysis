@@ -1,1 +1,3 @@
 # ITC-Hotels-Revenue-Analysis
+
+Developed an interactive Power BI dashboard to analyze the revenue performance of ITC Hotels, focusing on year-on-year growth, regional performance, and key profitability metrics. The project involved data cleaning, transformation, and modeling using Power Query and DAX to ensure accuracy and reliability. I designed dynamic visualizations with drill-down and slicer-based filters to provide actionable insights into revenue trends and performance drivers. This analysis supported data-driven decision-making and demonstrated my expertise in data visualization, business intelligence, and financial analysis using Power BI.
